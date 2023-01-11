@@ -25,7 +25,7 @@ for i in range(len(resultList)):
     idNameResult.append([i+1, nameList[i], resultList[i]])
 
 
-print("SUMMER-2022 SEMISTER RESULT".center(50))
+print("FALL-2022 SEMISTER RESULT".center(50))
 print("==================================================\n")
 key = int(input("Press 1 for sorted result, Press 2 for unsorted result: "))
 print("\n\n")
